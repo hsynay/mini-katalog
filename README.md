@@ -53,9 +53,9 @@ assets/
 
 ## Ekran Görüntüleri
 
-| Ana Sayfa | Ürün Detayı | Sepet |
-|---|---|---|
-| ![Ana Sayfa](screenshots/home.png) | ![Detay](screenshots/detail.png) | ![Sepet](screenshots/cart.png) |
+| Ana Sayfa | Arama/Filtreleme | Ürün Detayı | Sepet |
+|---|---|---|---|
+| ![Ana Sayfa](screenshots/home1.png) | ![Filtreleme](screenshots/home2_filter.png) | ![Detay](screenshots/detail1.png) | ![Sepet](screenshots/cart1.png) |
 
 ## Notlar
 
