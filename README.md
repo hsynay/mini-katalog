@@ -12,7 +12,7 @@ Flutter ile geliştirilmiş basit bir mobil e-ticaret katalog uygulaması. Bu pr
 
 ## Kullanılan Teknolojiler
 
-- **Flutter SDK**: 3.x (stable channel)
+- **Flutter SDK**: 3.38.4
 - **Dart SDK**: ^3.10.3
 - Sadece `material.dart` (ekstra paket kullanılmamıştır)
 
